@@ -1,0 +1,5 @@
+ansible_host: HOST_IP
+ansible_port: 22
+ansible_user: root
+ansible_ssh_private_key_file: SSH_PRIVATE_KEY_FILEPATH
+ansible_ssh_user: root

@@ -1,0 +1,10 @@
+[picluster:children]
+master
+workers
+
+[master]
+kube-master01
+
+[workers]
+kube-node01
+kube-node02
